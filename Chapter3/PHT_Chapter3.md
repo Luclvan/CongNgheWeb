@@ -1,7 +1,7 @@
 
 1. Code đã hoàn thiện.  
-[handle_login.php](./handle_login.php)  
-[welcome.php](./welcome.php)  
+[handle_login.php](./code//handle_login.php)  
+[welcome.php](./code/welcome.php)  
 
 2. Ảnh chụp màn hình kết quả.   
 ![](img/handle_login.png)  
